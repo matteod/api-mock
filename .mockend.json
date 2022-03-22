@@ -1,11 +1,7 @@
 {
-  "Order":
-    {
-      "confirmationNumber": {
-        "number": {
-          "regex": "[0-9]{1,9}"
-        }
-      }
+  "Order": {
+    "confirmationNumber": {
+      "regex": "[0-9]{1,9}"
     }
-
+  }
 }
