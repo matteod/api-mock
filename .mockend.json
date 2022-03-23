@@ -12,7 +12,7 @@
     "customerDescription": {
       "regexp": "[0-9]{8}"
     },
-    "comments": {
+    "orders": {
       "hasMany": "Order"
     }
   }
