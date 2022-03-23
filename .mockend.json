@@ -1,7 +1,16 @@
+
 {
   "Order": {
     "confirmationNumber": {
       "regexp": "[0-9]{9}"
+    }
+  },
+  "Customer": {
+    "customerNumber": {
+      "regexp": "[0-9]{8}"
+    },
+    "customerDescription": {
+      "regexp": "[0-9]{8}"
     }
   }
 }
